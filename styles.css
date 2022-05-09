@@ -4,9 +4,6 @@ body{
     place-items: center;
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    text-align- center;
-    
-
 }
 
 h3{
@@ -21,6 +18,7 @@ h3{
 p{
     font-size: 15px;
     color: hsl(220, 15%, 55%);
+    text-align: center;
 }
 
 img{
@@ -39,7 +37,6 @@ img{
     margin: 50px auto;
     padding: 20px 20px 40px;
     border-radius: 5%;
-  
     
 }
 
