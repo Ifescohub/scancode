@@ -10,12 +10,14 @@ h3{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin: 20px 0px;
-    font-size: large;   
+    font-size: large;
+    text-align: center; 
 }
 
 p{
     font-size: 15px;
     color: hsl(220, 15%, 55%);
+    text-align: center;
 }
 
 img{
@@ -34,10 +36,6 @@ img{
     padding: 20px 20px 40px;
     border-radius: 5%;
     
-}
-
-container-text{
-    text-align: center;
 }
 
 
