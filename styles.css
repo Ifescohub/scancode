@@ -49,3 +49,9 @@ img{
  }
 
 
+@media (max-width: 1024px) {
+  .container-fluid{
+    width: 70%;
+    }
+ }
+
